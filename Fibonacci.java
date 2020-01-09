@@ -11,7 +11,7 @@ Purpose/ Description: A program to return the nth fibonacci number by implementi
 
 import java.math.BigInteger;
 import java.util.Scanner;
-public class Problem3
+public class Fibonacci
 {
      static BigInteger array[][] = {{BigInteger.ONE, BigInteger.ONE}, {BigInteger.ONE, BigInteger.ZERO}};
      static int input;
